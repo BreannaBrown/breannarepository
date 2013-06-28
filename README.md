@@ -10,12 +10,11 @@ breannarepository
 
 <body>
 Lets start out by joining for free or signing in .. 
-<p
-><form>
+<p>
+<form>
 First name: <input type="text" name="firstname"><br>
 Last name: <input type="text" name="lastname">
 </form>
-
 <form> 
 Password: <input type="password" name="pwd">
 </form>
