@@ -52,10 +52,26 @@ Password : <input type="password" name="pwd">
 <img src="http://www.graphistes-world.com/wp-content/uploads/2010/06/ATribute2MusicV2_by_GraphicStreetRacer.jpg"> <img src="http://blog.teachbook.com.au/wp-content/uploads/2011/02/Typography.jpg">
 
 <p>
-<h4>These are examples of peoples art work ..
-Here in this website, you can comment and share your own or other people's work, make collaborations, and also share any ideas <h2>big</h2> or small ..</h4>
+<h4>These are examples of peoples art work .. What do you think ? Leave your name, email, and commnets below : </p>
+
+<form action="MAILTO:someone@example.com" method="post" enctype="text/plain">
+Name:<br>
+<input type="text" name="name" ><br>
+E-mail:<br>
+<input type="text" name="mail"><br>
+Comment:<br>
+<input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Send">
+</form>
+
+
+Here in this website, you can comment and share your own or other people's work, make collaborations, and also create any ideas <h2>big</h2> or small</h4>
 </p>
-Check out this video :
+<h4>Check out this video :</h4>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/sTi5SNgxE3U" frameborder="0" allowfullscreen></iframe>
+
+
 
 
 
