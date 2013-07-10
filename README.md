@@ -1,10 +1,9 @@
 breannarepository
-=================
-
-<html>
-<iframe src="https://www.facebook.com" width="1200" height="200"></iframe>
+=================<html>
+<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
 
 <head>
+	<div id="menu" style="background-color:#FF3366;height:40px;width:2000px;">
 <h1>Massive Creashuns</h1>
 </head>
 
@@ -36,7 +35,7 @@ Password : <input type="password" name="pwd">
 <p>
 </p>
 
-<div id="menu" style="background-color:#3300FF;height:250px;width:300px;float:middle;">
+<div id="menu" style="background-color:#FF3366;height:250px;width:300px;float:middle;">
 <h3><br>New Designs</br></h3>
 <h3><br>Most Popular</br></h3>
 <h3><br>Most Shared</br></h3>
@@ -69,14 +68,21 @@ Here in this website, you can comment and share your own or other people's work,
 </p>
 <h4>Check out this video :</h4>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/sTi5SNgxE3U" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/sTi5SNgxE3U" frameborder="0" allowfullscreen></iframe>
 
+<p><h3>So what do you think of the video ?? These are examples of what you can do here when you share and make collaborations with people on this site ..</h3>
+</p>
+<p><h2>Graphic designing and other types of arts are going global now .. Here on Massive Creashuns, you can go global also .</h2></p>
 
+<p>Check out this video:</p>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Vmilq3KDJio" frameborder="0" allowfullscreen></iframe>
+
+<p><h3>This video was to show you how to design your own logo to mark your work that you made here .. heres the link the to the website that she mentioned:: </h3></p>
+	 <a href="http://www.logodesignlove.com">Logo Design Love</a> 
 
 
 
 
 </body>
-
-
 </html>
