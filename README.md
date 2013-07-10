@@ -81,8 +81,9 @@ Here in this website, you can comment and share your own or other people's work,
 <p><h3>This video was to show you how to design your own logo to mark your work that you made here .. heres the link the to the website that she mentioned:: </h3></p>
 	 <a href="http://www.logodesignlove.com">Logo Design Love</a> 
 
-
-
+<p><h3>Here's another video on creating your logo:<h3></p>
+	<iframe width="560" height="315" src="http://www.youtube.com/embed/LlHZD8HfCd0" frameborder="0" allowfullscreen></iframe>
+		
 
 </body>
 </html>
