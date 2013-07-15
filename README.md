@@ -1,12 +1,13 @@
 breannarepository
-=================<html>
-<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
+=================<html<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
 
 <head>
-	<div id="menu" style="background-color:#FF3366;height:40px;width:2000px;">
-<h1>Massive Creashuns</h1>
+<p>
+</p>
+<a href="http://www.flickr.com/photos/98783440@N04/9270775296/" title="Screen Shot 2013-07-12 at 10.22.05 AM by breanna.lbrown, on Flickr"><img src="http://farm4.staticflickr.com/3817/9270775296_25959845c3.jpg" width="500" height="305" alt="Screen Shot 2013-07-12 at 10.22.05 AM"></a>
 </head>
-
+<p>
+	</p>
 <body>
 Lets start out by joining for free or signing in .. 
 <p>
@@ -35,7 +36,7 @@ Password : <input type="password" name="pwd">
 <p>
 </p>
 
-<div id="menu" style="background-color:#FF3366;height:250px;width:300px;float:middle;">
+<center><div id="menu" style="background-color:#FF3366;height:250px;width:300px;float:middle;">
 <h3><br>New Designs</br></h3>
 <h3><br>Most Popular</br></h3>
 <h3><br>Most Shared</br></h3>
