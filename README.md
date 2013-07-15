@@ -1,5 +1,5 @@
 breannarepository
-=================<html<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
+=================<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
 
 <head>
 <p>
@@ -36,11 +36,27 @@ Password : <input type="password" name="pwd">
 <p>
 </p>
 
-<center><div id="menu" style="background-color:#FF3366;height:250px;width:300px;float:middle;">
-<h3><br>New Designs</br></h3>
-<h3><br>Most Popular</br></h3>
-<h3><br>Most Shared</br></h3>
-<h3><br>Share and Upload</br></h3>
+<center><div id="menu" style="background-color:#FF3366;height:200px;width:300px;float:middle;">
+
+	<p><h3>
+	<a href="#C4">New Designs</a>
+	</p></h3>
+	
+	<p><h3>
+	<a href="#C4">Most Popular</a>
+	</p> </h3>
+	
+	<p><h3>
+	<a href="#C4">Most Shared</a>
+	</p></h3>
+	
+	<p><h3>
+	<a href="#C4">Share and Upload</a>
+	</p></h3>
+	
+	<p><h3>
+	<a href="#C4">About Me</a>
+	</p></h3>
 </div>
 
 
