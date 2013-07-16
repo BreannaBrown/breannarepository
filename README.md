@@ -1,10 +1,11 @@
 breannarepository
-=================<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
+=================
+<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
 
 <head>
 <p>
 </p>
-<a href="http://www.flickr.com/photos/98783440@N04/9270775296/" title="Screen Shot 2013-07-12 at 10.22.05 AM by breanna.lbrown, on Flickr"><img src="http://farm4.staticflickr.com/3817/9270775296_25959845c3.jpg" width="500" height="305" alt="Screen Shot 2013-07-12 at 10.22.05 AM"></a>
+<a href="http://www.flickr.com/photos/98783440@N04/9270775296/" title="Screen Shot 2013-07-12 at 10.22.05 AM by breanna.lbrown, on Flickr"><img src="http://farm4.staticflickr.com/3817/9270775296_25959845c3.jpg" width="800" height="370" alt="Screen Shot 2013-07-12 at 10.22.05 AM"></a>
 </head>
 <p>
 	</p>
@@ -100,7 +101,54 @@ Here in this website, you can comment and share your own or other people's work,
 
 <p><h3>Here's another video on creating your logo:<h3></p>
 	<iframe width="560" height="315" src="http://www.youtube.com/embed/LlHZD8HfCd0" frameborder="0" allowfullscreen></iframe>
-		
+	
+	
+	<p>
+	<h3>Some of the world's top graphic designers like <a href="http://shaunamullen1992.wordpress.com/2013/04/28/jack-crossing/">Jack Crossing</a> and <a href="http://robbpratt.com/robbpratt.com/Welcome.html">Rob Pratt</a> come to this website to hire people to work for them .. So make sure you do your best on something that will make anyone <h2>NOTICE</h2> and <h2> REMEMBER! </h2></h3></p>
+<p>
+<h3>	Go ahead and click the links to view those great designers and others from other art fields ..</h3></p>
+
+<p>
+	
+	<table border="1">
+	<tr>
+	<th>Name</th>
+	<th>Art Category</th>
+	<th>Web Link</th>
+	</tr>
+	<tr>
+	<td>row 1, cell 1</td>
+	<td>row 1, cell 2</td>
+	<td>row 1, cell 3</td>
+	</tr>
+	<tr>
+	<td>row 2, cell 1</td>
+	<td>row 2, cell 2</td>
+	<td>row 2, cell 3
+	</tr>
+	<tr>
+		<td>row 3, cell 1</td>
+		<td>row 3, cell 2
+	</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </body>
 </html>
