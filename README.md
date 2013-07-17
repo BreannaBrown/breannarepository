@@ -1,6 +1,5 @@
 breannarepository
-=================
-<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
+================<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
 
 <head>
 <p>
@@ -106,31 +105,44 @@ Here in this website, you can comment and share your own or other people's work,
 	<p>
 	<h3>Some of the world's top graphic designers like <a href="http://shaunamullen1992.wordpress.com/2013/04/28/jack-crossing/">Jack Crossing</a> and <a href="http://robbpratt.com/robbpratt.com/Welcome.html">Rob Pratt</a> come to this website to hire people to work for them .. So make sure you do your best on something that will make anyone <h2>NOTICE</h2> and <h2> REMEMBER! </h2></h3></p>
 <p>
-<h3>	Go ahead and click the links to view those great designers and others from other art fields ..</h3></p>
+<h3>	Go ahead and click the links to view those great designers and others below</h3></p>
 
 <p>
 	
 	<table border="1">
 	<tr>
-	<th>Name</th>
-	<th>Art Category</th>
-	<th>Web Link</th>
+		<th><p style="background-color:green">
+		Name</th></p>
+	<th><p style="background-color:green"> Art Category</th></p>
+	<th> <p style="background-color:green"> Web Link</th> </p>
 	</tr>
 	<tr>
-	<td>row 1, cell 1</td>
-	<td>row 1, cell 2</td>
-	<td>row 1, cell 3</td>
+	<td>Stefan Sagmeister</td>
+	<td>Graphic Designer</td>
+	<td><a href="http://www.sagmeisterwalsh.com/">Sagmeister & Walsh</a></td>
 	</tr>
 	<tr>
-	<td>row 2, cell 1</td>
-	<td>row 2, cell 2</td>
-	<td>row 2, cell 3
-	</tr>
+	<td>Chip Kidd</td>
+	<td>Graphic Designer</td>
+	<td><a href="http://chipkidd.com/journal/">Good is Dead</a></td>
+</tr>
 	<tr>
-		<td>row 3, cell 1</td>
-		<td>row 3, cell 2
+		<td>Ed Boon</td>
+		<td>Video Game Designer and Creator</td>
+		<td><a href="http://noob.com/">Noob</a></td>
+		</tr>
+	<tr>
+		<td>Michael Bierut</td>
+		<td>Graphic Designer</td>
+		<td><a href="http://designobserver.com/author.html?author=1047">Design Observer</a></td>
+		</tr>
+		<tr>
+			<td>Ruth Ansel</td>
+			<td>Graphic Designer</td>
+			<td><a href="http://www.ruthansel.com/about.html">Ruth Ansel</a></td>
+			</tr>
 	</table>
-
+<p><h2>There are other great people out there that might have your interest .. Do some research</h2></p>
 
 
 
