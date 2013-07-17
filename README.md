@@ -117,28 +117,28 @@ Here in this website, you can comment and share your own or other people's work,
 	<th> <p style="background-color:green"> Web Link</th> </p>
 	</tr>
 	<tr>
-	<td>Stefan Sagmeister</td>
-	<td>Graphic Designer</td>
+	<td><p style="background-color:#FF00FF">Stefan Sagmeister</td></p>
+	<td><p style="background-color:#33FFFF">Graphic Designer</td></p>
 	<td><a href="http://www.sagmeisterwalsh.com/">Sagmeister & Walsh</a></td>
 	</tr>
 	<tr>
-	<td>Chip Kidd</td>
-	<td>Graphic Designer</td>
+	<td><p style="background-color:#FF00FF">Chip Kidd</td></p>
+	<td><p style="background-color:#33FFFF">Graphic Designer</td></p
 	<td><a href="http://chipkidd.com/journal/">Good is Dead</a></td>
 </tr>
 	<tr>
-		<td>Ed Boon</td>
-		<td>Video Game Designer and Creator</td>
+		<td><p style="background-color:#FF00FF">Ed Boon</td></p>
+		<td><p style="background-color:#33FFFF">Video Game Designer and Creator</td></p>
 		<td><a href="http://noob.com/">Noob</a></td>
 		</tr>
 	<tr>
-		<td>Michael Bierut</td>
-		<td>Graphic Designer</td>
+		<td><p style="background-color:#FF00FF">Michael Bierut</td></p>
+		<td><p style="background-color:#33FFFF">Graphic Designer</td></p
 		<td><a href="http://designobserver.com/author.html?author=1047">Design Observer</a></td>
 		</tr>
 		<tr>
-			<td>Ruth Ansel</td>
-			<td>Graphic Designer</td>
+			<td><p style="background-color:#FF00FF">Ruth Ansel</td></p>
+			<td><p style="background-color:#33FFFF">Graphic Designer</td></p>
 			<td><a href="http://www.ruthansel.com/about.html">Ruth Ansel</a></td>
 			</tr>
 	</table>
