@@ -1,6 +1,7 @@
 breannarepository
 ================<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
 
+
 <head>
 <p>
 </p>
@@ -119,27 +120,27 @@ Here in this website, you can comment and share your own or other people's work,
 	<tr>
 	<td><p style="background-color:#FF00FF">Stefan Sagmeister</td></p>
 	<td><p style="background-color:#33FFFF">Graphic Designer</td></p>
-	<td><a href="http://www.sagmeisterwalsh.com/">Sagmeister & Walsh</a></td>
+	<td><p style="background-color:#99FF99"><a href="http://www.sagmeisterwalsh.com/">Sagmeister & Walsh</a></td>
 	</tr>
 	<tr>
 	<td><p style="background-color:#FF00FF">Chip Kidd</td></p>
-	<td><p style="background-color:#33FFFF">Graphic Designer</td></p
-	<td><a href="http://chipkidd.com/journal/">Good is Dead</a></td>
+	<td><p style="background-color:#33FFFF">Graphic Designer</td></p>
+	<td><p style="background-color:#99FF99"><a href="http://chipkidd.com/journal/">Good is Dead</a></td>
 </tr>
 	<tr>
 		<td><p style="background-color:#FF00FF">Ed Boon</td></p>
 		<td><p style="background-color:#33FFFF">Video Game Designer and Creator</td></p>
-		<td><a href="http://noob.com/">Noob</a></td>
+		<td><p style="background-color:#99FF99"> <a href="http://noob.com/">Noob</a></td>
 		</tr>
 	<tr>
 		<td><p style="background-color:#FF00FF">Michael Bierut</td></p>
-		<td><p style="background-color:#33FFFF">Graphic Designer</td></p
-		<td><a href="http://designobserver.com/author.html?author=1047">Design Observer</a></td>
+		<td><p style="background-color:#33FFFF">Graphic Designer</td></p>
+		<td><p style="background-color:#99FF99"> <a href="http://designobserver.com/author.html?author=1047">Design Observer</a></td>
 		</tr>
 		<tr>
 			<td><p style="background-color:#FF00FF">Ruth Ansel</td></p>
 			<td><p style="background-color:#33FFFF">Graphic Designer</td></p>
-			<td><a href="http://www.ruthansel.com/about.html">Ruth Ansel</a></td>
+			<td><p style="background-color:#99FF99"> <a href="http://www.ruthansel.com/about.html">Ruth Ansel</a></td>
 			</tr>
 	</table>
 <p><h2>There are other great people out there that might have your interest .. Do some research</h2></p>
