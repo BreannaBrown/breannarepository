@@ -1,5 +1,4 @@
-breannarepository
-================<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
+<iframe src="https://www.facebook.com" width="2000" height="200"></iframe>
 
 
 <head>
@@ -37,22 +36,18 @@ Password : <input type="password" name="pwd">
 <p>
 </p>
 
-<center><div id="menu" style="background-color:#FF3366;height:200px;width:300px;float:middle;">
+<center><div id="menu" style="background-color:#FF3366;height:150px;width:300px;float:middle;">
 
 	<p><h3>
-	<a href="#C4">New Designs</a>
+	<a href="http://www.designer-daily.com/">New Designs</a>
 	</p></h3>
 	
 	<p><h3>
-	<a href="#C4">Most Popular</a>
+	<a href="http://mediamilitia.com/top-10-graphic-design-inspiration-sites/">Most Popular</a>
 	</p> </h3>
 	
 	<p><h3>
-	<a href="#C4">Most Shared</a>
-	</p></h3>
-	
-	<p><h3>
-	<a href="#C4">Share and Upload</a>
+	<a href="#C4">Upload and Share </a>
 	</p></h3>
 	
 	<p><h3>
@@ -61,7 +56,7 @@ Password : <input type="password" name="pwd">
 </div>
 
 
-<h2>This website is the place where your art comes to life ..</h2>
+<h2>This website is the place where your art comes to life .. Massive Creashuns is a place with connections</h2>
 </p>
 <body style="background-color:#DC143C""width:400px">
 
